@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Resolutions>
+		<Row>
+			<Type>RESOLUTION_NOBEL</Type>
+			<Description>TXT_KEY_RESOLUTION_NOBEL</Description>
+			<Help>TXT_KEY_RESOLUTION_NOBEL_HELP</Help>
+			<VoterDecision>RESOLUTION_DECISION_YES_OR_NO</VoterDecision>
+			<ProposerDecision>RESOLUTION_DECISION_NONE</ProposerDecision>
+			<TechPrereqAnyMember>TECH_DYNAMITE</TechPrereqAnyMember>
+			<LeagueProjectEnabled>LEAGUE_PROJECT_NOBEL</LeagueProjectEnabled>
+		</Row>
+	</Resolutions>
+</GameData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_NOBEL_PRIZE_BUILDING</Type>
+			<DefaultBuilding>BUILDING_NOBEL_PRIZE_BUILDING</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_NOBEL_PRIZE_BUILDING</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+	</BuildingClasses>
+</GameData>

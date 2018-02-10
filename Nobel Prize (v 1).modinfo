@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="2efea4e8-497e-4f02-a472-88a9062014e4" version="1">
+  <Properties>
+    <Name>Nobel Prize</Name>
+    <Teaser>New world project called Nobel Prize</Teaser>
+    <Description>Adds a new world project: Nobel Prize. This project is activated by dynamite technology and has the same cost as international games. The awards are: bronze award is +3 of happiness, silver award is a free policy, gold award is the palace of the Nobel Prize. The Nobel Prize building gives 4 great free characters: a great engineer, a great scientist, a great writer and a great artist.</Description>
+    <Authors>Elia</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="14E3E7C6DF81E8BF636BBF3E7E81290F" import="1">Art/NOBEL128.dds</File>
+    <File md5="D212150C2CE8754B20DB16FD64F73026" import="1">Art/NOBEL256.dds</File>
+    <File md5="D50BC8FC8263FB76C46ED91C66374369" import="1">Art/NOBEL32.dds</File>
+    <File md5="70D81EF937F8E79B1409AF5159660C20" import="1">Art/NOBEL45.dds</File>
+    <File md5="EF4CFAF7BE61DA21B6C03318C2F2AD68" import="1">Art/NOBEL64.dds</File>
+    <File md5="14F1C118352A5CE9DA906A6FF46ECD0E" import="1">Art/NOBEL_939x614.dds</File>
+    <File md5="2004BF027A10A338C51C8A39990B100B" import="0">Icon/Nobel_Icon.xml</File>
+    <File md5="82E8DBC43DD211FD951C3A157ED54EE0" import="0">LeagueProject/Nobel_Process.xml</File>
+    <File md5="37E6DE78F2158A1252817F51B8572F23" import="0">LeagueProject/Nobel_Project.xml</File>
+    <File md5="A5E20A4F4EEAAB3D29E3BC74D0EF3FA8" import="0">LeagueProject/Nobel_Resolution.xml</File>
+    <File md5="F08752F8319BDD865FAA2B28EE95D45C" import="0">LeagueProject/Nobel_Rewards.xml</File>
+    <File md5="15DA4FA05CD00C942D65EEC6704B87E8" import="0">Nobel_Building/Nobel_Building.xml</File>
+    <File md5="49167246E68376FB27DA63CE21D77AE4" import="0">Nobel_Building/Nobel_BuildingClasses.xml</File>
+    <File md5="2F0A0C74E657F36EFA4ACEC84D293740" import="0">Txt/Nobel_Building_Txt.xml</File>
+    <File md5="02F7BDC5FD67F5A32E59298D528E4279" import="0">Txt/Nobel_txt.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>LeagueProject/Nobel_Project.xml</UpdateDatabase>
+      <UpdateDatabase>Icon/Nobel_Icon.xml</UpdateDatabase>
+      <UpdateDatabase>Txt/Nobel_txt.xml</UpdateDatabase>
+      <UpdateDatabase>LeagueProject/Nobel_Resolution.xml</UpdateDatabase>
+      <UpdateDatabase>LeagueProject/Nobel_Rewards.xml</UpdateDatabase>
+      <UpdateDatabase>LeagueProject/Nobel_Process.xml</UpdateDatabase>
+      <UpdateDatabase>Nobel_Building/Nobel_Building.xml</UpdateDatabase>
+      <UpdateDatabase>Nobel_Building/Nobel_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>Txt/Nobel_Building_Txt.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

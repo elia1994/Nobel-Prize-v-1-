@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LeagueProjectRewards>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_NOBEL_1</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_NOBEL_1</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_NOBEL_1_HELP</Help>
+			<Happiness>3</Happiness>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_NOBEL_2</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_NOBEL_2</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_NOBEL_2_HELP</Help>
+			<FreeSocialPolicies>1</FreeSocialPolicies>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_NOBEL_3</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_NOBEL_3</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_NOBEL_3_HELP</Help>
+			<Building>BUILDING_NOBEL_PRIZE_BUILDING</Building>
+		</Row>
+	</LeagueProjectRewards>
+</GameData>

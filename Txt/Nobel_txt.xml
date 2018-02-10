@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROCESS_NOBEL">
+			<Text>Nobel prize</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_NOBEL_HELP">
+			<Text>This project leads to the birth of the nobel prize. The bronze prize is 3 of happiness, the silver prize is a free policy and the golden prize is 4 great free people: engineer, scientist, artist and writer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_NOBEL">
+			<Text>Project for Nobel prize</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_NOBEL_HELP">
+			<Text>Project for Nobel prize: the bronze prize is 3 of happiness, the silver prize is a free policy and the golden prize is 4 great free people: engineer, scientist, artist and writer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_NOBEL">
+			<Text>Nobel prize</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_NOBEL_SPLASH">
+			<Text>Nobel prize</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_NOBEL_1">
+			<Text>3 of happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_NOBEL_1_HELP">
+			<Text>3 of happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_NOBEL_2">
+			<Text>One Free Policy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_NOBEL_2_HELP">
+			<Text>One Free Policy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_NOBEL_3">
+			<Text>4 Great People</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_NOBEL_3_HELP">
+			<Text> engineer, scientist, artist and writer.</Text>
+		</Row>
+	</Language_en_US>  
+</GameData>

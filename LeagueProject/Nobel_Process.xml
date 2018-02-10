@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Processes>
+		<Row>
+			<Type>PROCESS_NOBEL</Type>
+			<Description>TXT_KEY_PROCESS_NOBEL</Description>
+			<Help>TXT_KEY_PROCESS_NOBEL_HELP</Help>
+			<Strategy>TXT_KEY_PROCESS_NOBEL_HELP</Strategy>
+			<IconAtlas>NOBEL_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Processes>
+	<Process_Flavors>
+		<Row>
+			<ProcessType>PROCESS_NOBEL</ProcessType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_NOBEL</ProcessType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>80</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_NOBEL</ProcessType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>40</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_NOBEL</ProcessType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+	</Process_Flavors>
+</GameData>

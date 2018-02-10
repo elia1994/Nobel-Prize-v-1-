@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_NOBEL_PRIZE_BUILDING</Type>
+			<BuildingClass>BUILDINGCLASS_NOBEL_PRIZE_BUILDING</BuildingClass>
+			<Cost>-1</Cost>
+			<UnlockedByLeague>true</UnlockedByLeague>
+			<Description>TXT_KEY_BUILDING_NOBEL_PRIZE_BUILDING</Description>
+			<Quote>TXT_KEY_BUILDING_NOBEL_PRIZE_BUILDING_QUOTE</Quote>
+			<Civilopedia>TXT_KEY_CIV5_BUILDING_NOBEL_PRIZE_BUILDING_TEXT</Civilopedia>
+			<Help>TXT_KEY_BUILDING_NOBEL_PRIZE_BUILDING_HELP</Help>
+			<!--<ArtDefineTag>ART_DEF_BUILDING_NOBEL_PRIZE_BUILDING</ArtDefineTag>	-->
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<DisplayPosition>2</DisplayPosition>
+			<ConquestProb>100</ConquestProb>
+			<IconAtlas>NOBEL_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_FreeUnits>
+		<Row>
+			<BuildingType>BUILDING_NOBEL_PRIZE_BUILDING</BuildingType>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<NumUnits>1</NumUnits>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NOBEL_PRIZE_BUILDING</BuildingType>
+			<UnitType>UNIT_WRITER</UnitType>
+			<NumUnits>1</NumUnits>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NOBEL_PRIZE_BUILDING</BuildingType>
+			<UnitType>UNIT_SCIENTIST</UnitType>
+			<NumUnits>1</NumUnits>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NOBEL_PRIZE_BUILDING</BuildingType>
+			<UnitType>UNIT_ENGINEER</UnitType>
+			<NumUnits>1</NumUnits>
+		</Row>
+	</Building_FreeUnits>
+</GameData>

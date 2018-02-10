@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_NOBEL_PRIZE_BUILDING">
+			<Text>Nobel prize building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NOBEL_PRIZE_BUILDING_QUOTE">
+			<Text>[NEWLINE]“If I could explain it to the average person, I wouldn't have been worth the Nobel Prize.”[NEWLINE]Richard Feynman[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDING_NOBEL_PRIZE_BUILDING_TEXT">
+			<Text>Nobel prize building: free engineer, scientist, artist and writer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NOBEL_PRIZE_BUILDING_HELP">
+			<Text>Free 4 Great People.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>					

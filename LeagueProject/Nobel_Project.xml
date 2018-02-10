@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LeagueProjects>
+		<Row>
+			<Type>LEAGUE_PROJECT_NOBEL</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_NOBEL</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_NOBEL_SPLASH</Help>
+			<Process>PROCESS_NOBEL</Process>
+			<CostPerPlayer>720</CostPerPlayer>
+			<RewardTier1>LEAGUE_PROJECT_REWARD_NOBEL_1</RewardTier1>
+			<RewardTier2>LEAGUE_PROJECT_REWARD_NOBEL_2</RewardTier2>
+			<RewardTier3>LEAGUE_PROJECT_REWARD_NOBEL_3</RewardTier3>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>NOBEL_ATLAS</IconAtlas>
+		</Row>
+	</LeagueProjects>
+</GameData>
